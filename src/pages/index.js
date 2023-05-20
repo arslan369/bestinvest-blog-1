@@ -1,7 +1,6 @@
 import useSite from 'hooks/use-site';
 import { getPaginatedPosts } from 'lib/posts';
 import { WebsiteJsonLd } from 'lib/json-ld';
-import Image from 'next/image'
 import Layout from 'components/Layout';
 import Header from 'components/Header';
 import Section from 'components/Section';
