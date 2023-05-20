@@ -57,4 +57,7 @@
   "bugs": {
     "url": "https://github.com/colbyfayock/next-wordpress-starter/issues"
   }
+},
+"scripts": {
+  "lint": "next lint"
 }
